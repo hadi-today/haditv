@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Channel 1",
+        "streamUrl": "http://example.com/stream1"
+    },
+    {
+        "name": "Channel 2",
+        "streamUrl": "http://example.com/stream2"
+    },
+    {
+        "name": "Channel 3",
+        "streamUrl": "http://example.com/stream3"
+    }
+]
